@@ -1,0 +1,19 @@
+.box{
+    background-color:rgb(224, 222, 222);
+    padding: 40px 60px;
+}
+
+
+.fa{
+    color: blue;
+    font-size: 45px;
+}
+a{
+    text-decoration: underline;
+}
+.box-part{
+    background-color: white;
+    text-align: center;
+    padding: 50px 15px;
+    margin: 20px;
+}
